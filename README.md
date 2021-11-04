@@ -6,9 +6,56 @@
 >   * My two favorite languages to work in are Go and Ruby.
 >  * I believe if things are not easy, they are not finished.
 
+- [Resume: Daniel Owen van Dommelen](#resume-daniel-owen-van-dommelen)
+  - [Work Experience](#work-experience)
+  - [Rocsys : Tech Lead](#rocsys--tech-lead)
+    - [Stack](#stack)
+    - [Remarks](#remarks)
+  - [Bit8 : Team Lead (2nd Time)](#bit8--team-lead-2nd-time)
+    - [Stack](#stack-1)
+    - [Remarks](#remarks-1)
+  - [Orbisk (Zero Foodwaste) : Backend Developer](#orbisk-zero-foodwaste--backend-developer)
+    - [Stack](#stack-2)
+    - [Remarks](#remarks-2)
+  - [Quik Tech Ltd. : Backend Developer](#quik-tech-ltd--backend-developer)
+    - [Stack](#stack-3)
+    - [Remarks](#remarks-3)
+  - [Bit8 : Team Lead (1st Time)](#bit8--team-lead-1st-time)
+    - [Stack](#stack-4)
+    - [Remarks](#remarks-4)
+  - [QuickBed : CTO](#quickbed--cto)
+    - [Stack](#stack-5)
+    - [Remarks](#remarks-5)
+  - [Create50 : Full Stack Developer](#create50--full-stack-developer)
+    - [Stack](#stack-6)
+    - [Remarks](#remarks-6)
+  - [Gigit : CTO](#gigit--cto)
+    - [Stack](#stack-7)
+    - [Remarks](#remarks-7)
+  - [Livestation : Full Stack Developer](#livestation--full-stack-developer)
+    - [Stack](#stack-8)
+    - [Remarks](#remarks-8)
+  - [**FROM HERE LIMITING INFORMATION TO REDUCE PAGE COUNT**](#from-here-limiting-information-to-reduce-page-count)
+  - [Smartdate : Full Stack Developer](#smartdate--full-stack-developer)
+    - [Stack](#stack-9)
+  - [Ixly : Full Stack Developer](#ixly--full-stack-developer)
+    - [Stack](#stack-10)
+  - [Victor Chandler International : Full Stack Developer](#victor-chandler-international--full-stack-developer)
+    - [Stack](#stack-11)
+  - [SellaBand : CTO](#sellaband--cto)
+    - [Stack](#stack-12)
+  - [Noxa : Full Stack Developer](#noxa--full-stack-developer)
+    - [Stack](#stack-13)
+  - [**ADDITIONAL HISTORICAL WORK-EXPERIENCE DATING BACK TO 1998 AVAILABLE ON REQUEST**](#additional-historical-work-experience-dating-back-to-1998-available-on-request)
+- [Active Projects](#active-projects)
+  - [My Resume](#my-resume)
+  - [Wrkspc](#wrkspc)
+  - [SPDG](#spdg)
+- [Languages](#languages)
+
 ## Work Experience
 
-## Rocsys :: Tech Lead
+## Rocsys : Tech Lead
 
 REMOTE: AUG 2021 - JAN 2022 (however, available from December, I can explain.)
 
@@ -40,7 +87,7 @@ The learning curve was extremely high for me personally, especially on the netwo
 
 My personal project `wrkspc` is an elaboration on this and can be found at the end of this resume.
 
-## Bit8 :: Team Lead (2nd Time)
+## Bit8 : Team Lead (2nd Time)
 
 REMOTE: DEC 2020 - MAY 2021
 
@@ -66,7 +113,7 @@ Developed a [C# .Net Core project that turns MySQL grammar into execution trees]
 
 Wrote a tool in Go to canonize configuration tables in the database which would be changed during QA and not changed back, cause `heisenbugs`.
 
-## Orbisk (Zero Foodwaste) :: Backend Developer
+## Orbisk (Zero Foodwaste) : Backend Developer
 
 UTRECHT: OCT 2019 - OCT 2020
 
@@ -97,7 +144,7 @@ All this was using many Google Cloud services such as Buckets, Serverless Functi
 
 Worked on camera improvements on the software layer, eventually having to work withe raw MMAL code to control things at the GPU and VPU level.
 
-## Quik Tech Ltd. :: Backend Developer
+## Quik Tech Ltd. : Backend Developer
 
 MALTA: NOV 2018 - JUL 2019
 
