@@ -26,7 +26,7 @@ Below is an (incomplete) list of all the elements of the stack. There were over 
 | Azure AKS             | Docker/ContainerD                  | React                      |
 | TransIP VPS (CoreOS)  | Kubernetes (Lokomotive on Flatcar) | Yarn                       |
 
-### Notes
+### Remarks
 
 This project built up much faster than anyone, including me, had expected because I stumbled on a way of doing things that reduced the amount of custom development time. A good example is using Grafana as a "base" to build our own frontend into, using the plugin system. This meant we got all Grafana's features for free (user management, authentication, design, application). I created an app plugin to be able to make new pages or screens custom to our needs, datasource plugins to connect to external (and internal) services, and panel plugins to display our data.
 
