@@ -111,7 +111,7 @@ Spent quite some time upgrading the developer tooling using some more modern tec
 
 Developed a [C# .Net Core project that turns MySQL grammar into execution trees](https://github.com/TheApeMachine/ByeSQL) to help pull ancient and massive stored procedures out of the database and turn them into code.
 
-Wrote a tool in Go to canonize configuration tables in the database which would be changed during QA and not changed back, cause `heisenbugs`.
+Wrote a tool in Go to canonize configuration tables in the database which would be changed during QA and not changed back, causing `heisenbugs`.
 
 ## Orbisk (Zero Foodwaste) : Backend Developer
 
