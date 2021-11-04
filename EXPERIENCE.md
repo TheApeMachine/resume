@@ -1,0 +1,15 @@
+# Work Experience
+
+- [Work Experience](#work-experience)
+  - [Bit8 : Team Lead](BIT8.md#bit8--team-lead)
+    - [Stack](BIT8.md#bit8--team-lead#stack)
+    - [Remarks](BIT8.md#bit8--team-lead#remarks)
+  - [Orbisk (Zero Foodwaste) : Backend Developer](ORBISK.md#quik-tech-ltd--backend-developer)
+    - [Stack](ORBISK.md#quik-tech-ltd--backend-developer#stack)
+    - [Remarks](ORBISK.md#quik-tech-ltd--backend-developer#remarks)
+  - [Quik Tech Ltd. : Backend Developer](QUIKTECH.md#quik-tech-ltd--backend-developer)
+    - [Stack](QUIKTECH.md#quik-tech-ltd--backend-developer#stack)
+    - [Remarks](QUIKTECH.md#quik-tech-ltd--backend-developer#remarks)
+  - [QuickBed : CTO](QUICKBED.md#quickbed--cto)
+    - [Stack](QUICKBED.md#quickbed--cto#stack-1)
+    - [Remarks](QUICKBED.md#quickbed--cto#remarks-1)
