@@ -127,7 +127,7 @@ I consider this a micro-services platform done right, and personally I was relyi
 ### Stack
 
 | Infrastructure | Backend | Frontend            |
-|--------------------------|---------------------|
+|----------------|---------|---------------------|
 | Google Cloud   | Go      | Vue                 |
 | Arduino        | Python  | Veutify             |
 | RaspberryPi    | C++     | AI annotation tools |
